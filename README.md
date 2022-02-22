@@ -21,6 +21,7 @@ $ dotnet run
 
 ## Frontend
 
-- Hecho con `React` con `Vite`, por lo cual necesita Node.js para poder correr, si no lo tienes instalado haz clic [aquí](https://nodejs.org/en/). También se necesita el manejador de paquetes `Yarn`, si no lo tienes instalado haz clic [aquí](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+- Hecho con `React` con `Vite`, por lo cual necesita Node.js para poder correr, si no lo tienes instalado haz clic [aquí](https://nodejs.org/en/). 
+- También se necesita el manejador de paquetes `Yarn`, si no lo tienes instalado haz clic [aquí](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable).
 
 
