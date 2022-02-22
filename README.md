@@ -1,10 +1,10 @@
 ## Base de datos
--Ejecutar el script `FrancisTerrero-Prueba.sql` en tu manejador de base de datos SQLSever.
+- Ejecutar el script `FrancisTerrero-Prueba.sql` en tu manejador de base de datos SQLSever.
 
 ## Backend
--Tomar en cuenta la versión utilizada `.NET 5`
+- Tomar en cuenta la versión utilizada `.NET 5`
 
--Tomar en cuenta el connection string a la base de datos en `appsettings.json` y verifique si concuerda con su equipo.
+- Tomar en cuenta el connection string a la base de datos en `appsettings.json` y verifique si concuerda con su equipo.
 ```code
   "ConnectionStrings": {
     "WebApiDatabase": "Server=localhost\\SQLEXPRESS; Database=PruebaTecnica; Trusted_Connection=True;"
