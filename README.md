@@ -30,7 +30,7 @@ $ yarn
 
 # ejecutar proyecto
 $ yarn run dev
-# estará corriento en localhost:3000
+# estará corriendo en localhost:3000
 ```
 
 
