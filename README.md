@@ -10,4 +10,12 @@
     "WebApiDatabase": "Server=localhost\\SQLEXPRESS; Database=PruebaTecnica; Trusted_Connection=True;"
   },
 ```
+- Ejecutar los siguientes comandos
+```bash
+# instalar dependencias
+$ dotnet restore
+
+# ejecutar proyecto
+$ dotnet run
+```
 
