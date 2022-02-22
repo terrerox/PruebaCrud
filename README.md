@@ -3,6 +3,7 @@ Ejecutar el script `FrancisTerrero-Prueba.sql` en tu manejador de base de datos 
 
 ## Backend
 Tomar en cuenta la versión utilizada `.NET 5`
+
 Cambiar el connection string a la base de datos en `appsettings.json`
 ```code
   "ConnectionStrings": {
